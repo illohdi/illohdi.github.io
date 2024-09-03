@@ -15,10 +15,16 @@ Dike prides himself on his diverse skill set. His most prominent fields of exper
 * Vanderbilt University
   * BS Biomedical Engineering
   * Expected Graduation: May 2025
+ 
+## Work Experience
+* AbbVie
+   * Combination Product Development Inter (Systems Engineering)
+   * Chicago, Illinois
+   * May 2025 - August 2025
 
 ## Technical Skills
 
-Dike has learned and continues to learn how to operate various computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Dike has learned and continues to learn how to operate various computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. Dike has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 
