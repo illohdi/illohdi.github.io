@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Dike Illoh Web Page"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dike Illoh is an engineering student with a passion for polymer science and manufacturing methods."
+excerpt: "Dike Illoh is an engineering student with a passion for polymer science and manufacturing methods This website is used to demonstrate the abilities and work that Dike has achieved."
 feature_row:
   - image_path: assets/img/BOMCoverimg-01.jpg
     alt: "Polymer Science"
