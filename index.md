@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Dike Illoh is an engineering student with a passion for polymer science and manufacturing methods."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: assets/img/BOMCoverimg-01.jpg
+    alt: "Polymer Science"
+    title: "Polymer Science"
+    excerpt: "Useful for analyzing surface and material interactions."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
