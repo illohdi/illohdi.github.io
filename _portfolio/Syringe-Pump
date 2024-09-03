@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump provides precise flow rate control, is compatible with syringes of different diameters, and is driven through a stepper motor."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: assets/img/Screenshot 2024-09-03 040346.png
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
