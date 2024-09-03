@@ -14,10 +14,10 @@ feature_row:
     alt: "Polymer Science"
     title: "Polymer Science"
     excerpt: "Useful for analyzing surface and material interactions."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/d-printer-additive-manufacturing-robotic-automation-technology-181843395.webp
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "3D Printing"
+    excerpt: "An example of a 3D printed product."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
