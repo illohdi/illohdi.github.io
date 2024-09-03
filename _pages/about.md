@@ -22,8 +22,4 @@ Dike has learned and continues to learn how to operate various computer controll
 
 * Fused Filament Fabrication (FFF)
 
-## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="assets/img/IMG_7856 (1).jpg" style="width:200px;"/>
