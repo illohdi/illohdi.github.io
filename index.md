@@ -18,9 +18,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "3D Printing"
     excerpt: "An example of a 3D printed product."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/download.jpg
+    title: "Biomaterial Manipulation"
+    excerpt: "An example of stent manipulation."
 ---
 
 {% include feature_row %}
