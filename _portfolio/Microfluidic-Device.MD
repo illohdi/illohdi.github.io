@@ -12,9 +12,7 @@ Microfluidic devices, which control and manipulate fluids on a microscopic scale
 
 Design Rationale: Mixing Geometries and Sorting Mechanisms
 
-**Mixing Geometries**: In microfluidics, effective mixing relies heavily on the design of the device’s internal channels. Geometries such as **zig-zag or serpentine channels** increase the contact surface and path length for fluid flows, promoting mixing through diffusion. These configurations create the necessary flow disruptions to achieve more uniform mixing, countering the laminar flow that would otherwise limit fluid interaction.
-
-**Sorting Mechanisms**: In addition to mixing, some microfluidic devices use sorting geometries, like **pinch flow fractionation**. This design constricts fluid flow to separate particles based on size or density, utilizing the laminar profile to organize particles by flow path. These structures are crucial for applications that require precise particle sorting or filtration, such as in cell sorting for biological research.
+**Mixing Geometries**: In microfluidics, effective mixing relies heavily on the design of the device’s internal channels. Geometries such as **zig-zag or serpentine channels** increase the contact surface and path length for fluid flows, promoting mixing through diffusion. These configurations create the necessary flow disruptions to achieve more uniform mixing, countering the laminar flow that would otherwise limit fluid interaction. The design that I utilized fattempted to take advantage of angled turns to create turbulent flow and mix the two substances together. The design would have been more efficient if herringbone features were added as well.
 
 ### Why Parylene Coating is Necessary for Resin-Printed Molds
 
@@ -49,7 +47,7 @@ To fabricate a microfluidic device, follow these steps:
 
 ---
 
-#CAD Model
+CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a440333171449b7c82?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
