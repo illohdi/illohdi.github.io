@@ -1,6 +1,7 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Designing a chip that homogenously mixes to streams of material together:
+excerpt: "Designing a chip that homogenously mixes to streams of material together
+header:
   image: assets/img/Screenshot 2024-09-03 040346.png
   teaser: assets/img/Screenshot 2024-09-03 040359.png
 ---
