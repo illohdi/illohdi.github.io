@@ -3,7 +3,7 @@ title: "Microfluidic Device"
 excerpt: "Designing a chip that homogenously mixes to streams of material together"
 header:
   image: assets/img/By_science_photo-1.webp
-  teaser: assets/img/Screenshot 2024-09-03 040359.png
+  teaser: 
 ---
 
 Introduction to Microfluidic (µFluidic) Devices
