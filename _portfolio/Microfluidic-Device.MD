@@ -10,7 +10,7 @@ Introduction to Microfluidic (µFluidic) Devices
 
 Microfluidic devices, which control and manipulate fluids on a microscopic scale, are widely used in biomedical applications like diagnostics and cell culture. A common application requiring **homogeneous mixing** in these devices is in chemical and biological assays, where precise mixing is essential to ensure consistent reactions and accurate results. However, mixing in microfluidics can be challenging due to the **dominance of laminar flow** at the microscale. This flow pattern results in fluids moving in parallel layers, with minimal natural intermixing, making it necessary to design structures within the device that encourage mixing.
 
-Design Rationale: Mixing Geometries and Sorting Mechanisms
+Design Rationale: Mixing Geometries
 
 **Mixing Geometries**: In microfluidics, effective mixing relies heavily on the design of the device’s internal channels. Geometries such as **zig-zag or serpentine channels** increase the contact surface and path length for fluid flows, promoting mixing through diffusion. These configurations create the necessary flow disruptions to achieve more uniform mixing, countering the laminar flow that would otherwise limit fluid interaction. The design that I utilized fattempted to take advantage of angled turns to create turbulent flow and mix the two substances together. The design would have been more efficient if herringbone features were added as well.
 
