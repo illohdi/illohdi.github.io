@@ -14,7 +14,7 @@ Design Rationale: Mixing Geometries and Sorting Mechanisms
 
 **Mixing Geometries**: In microfluidics, effective mixing relies heavily on the design of the device’s internal channels. Geometries such as **zig-zag or serpentine channels** increase the contact surface and path length for fluid flows, promoting mixing through diffusion. These configurations create the necessary flow disruptions to achieve more uniform mixing, countering the laminar flow that would otherwise limit fluid interaction.
 
-**Sorting Mechanisms**: In addition to mixing, some microfluidic devices use sorting geometries, like **pinch flow fractionation**. This design constricts fluid flow to separate particles based on size or density, utilizing the laminar profile to organize particles by flow path. These structures are crucial for applications that require precise particle sorting or filtration, such as in cell sorting for biological research【6†source】【7†source】.
+**Sorting Mechanisms**: In addition to mixing, some microfluidic devices use sorting geometries, like **pinch flow fractionation**. This design constricts fluid flow to separate particles based on size or density, utilizing the laminar profile to organize particles by flow path. These structures are crucial for applications that require precise particle sorting or filtration, such as in cell sorting for biological research.
 
 ### Why Parylene Coating is Necessary for Resin-Printed Molds
 
@@ -22,7 +22,7 @@ Resin-printed molds used in microfluidic devices must be coated with **parylene*
   - **Biocompatibility**: Uncoated resin molds can leach toxic monomers, posing a risk to biological samples like cells. Parylene, a commonly used medical-grade polymer, forms a protective barrier that prevents these contaminants from affecting the final device.
   - **Demolding Efficiency**: Parylene coating also ensures that PDMS does not stick to the mold during curing, allowing for clean demolding and preserving the integrity of intricate microfeatures. 
 
-*Layman’s Explanation*: Imagine making a jelly mold but with materials that could contaminate the jelly or make it impossible to remove cleanly. Parylene creates a thin, safe coating so the jelly (or in this case, PDMS) keeps its shape, remains uncontaminated, and releases smoothly from the mold【7†source】.
+*Layman’s Explanation*: Imagine making a jelly mold but with materials that could contaminate the jelly or make it impossible to remove cleanly. Parylene creates a thin, safe coating so the jelly (or in this case, PDMS) keeps its shape, remains uncontaminated, and releases smoothly from the mold.
 
 ### Hypothetical Applications of a Microfluidic Mixer
 
@@ -45,13 +45,12 @@ To fabricate a microfluidic device, follow these steps:
    - Mix the PDMS elastomer with curing agent (typically a 10:1 ratio), pour it over the parylene-coated mold, degas to remove air bubbles, and cure in an oven at 80 °C for 3 hours. Once cured, demold the PDMS device carefully.
 
 4. **Plasma Bonding to a Glass Slide**:
-   - Plasma-treat the PDMS device and a glass slide to activate their surfaces, then press them together to bond. This step finalizes the device, creating a sealed environment for fluid flow【6†source】【7†source】.
+   - Plasma-treat the PDMS device and a glass slide to activate their surfaces, then press them together to bond. This step finalizes the device, creating a sealed environment for fluid flow.
 
-These elements, aligned with the rubric requirements, ensure clarity and thoroughness for both technical and non-technical users aiming to replicate the device fabrication process.
 ---
 
 #CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a2f3d997ef4feef4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a440333171449b7c82?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 #Instructions for Operation
