@@ -46,15 +46,15 @@ Throughout the project, 2 prototypes were printed to refine the pliers’ fit, f
 First Iteration:
 A 0.6 mm nozzle was used the the dovetails connecting the pieces were not precise enough nor angled enough to prevent the pieces from falling apart.
 
-assets/img/IMG_8825.jpg
+image: assets/img/IMG_8825.jpg
 
 
 Second Iteration:
 A 0.4 mm nozzle was used for both parts leading to higher accuracy with parts. Additionally, steeper angles on the dovetail features wer incorporated in order to prevent bending from disassembling the plier parts.
 
-assets/img/IMG_8826.jpg
+image: assets/img/IMG_8826.jpg
 
 
 GIF of part
 
-assets/img/IMG_8823.gif
+image: assets/img/IMG_8823.gif
