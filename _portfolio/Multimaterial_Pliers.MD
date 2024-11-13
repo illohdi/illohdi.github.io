@@ -46,7 +46,7 @@ Throughout the project, 2 prototypes were printed to refine the pliers’ fit, f
 First Iteration:
 A 0.6 mm nozzle was used the the dovetails connecting the pieces were not precise enough nor angled enough to prevent the pieces from falling apart.
 
-"assets/img/IMG_8825.jpg"
+<"assets/img/IMG_8825.jpg">
 
 
 Second Iteration:
