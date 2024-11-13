@@ -38,3 +38,15 @@ Print Settings
 Material: TPU for the spring and PLA for the rigid handles and jaw.
 Layer Height: 0.2 mm
 Infill: 25% for flexible center and 20% for rigid parts
+
+Iterative Process
+
+Throughout the project, 2 prototypes were printed to refine the pliers’ fit, flexibility, and function. 
+
+First Iteration:
+A 0.6 mm nozzle was used the the dovetails connecting the pieces were not precise enough nor angled enough to prevent the pieces from falling apart.
+
+Second Iteration:
+A 0.4 mm nozzle was used for both parts leading to higher accuracy with parts. Additionally, steeper angles on the dovetail features wer incorporated in order to prevent bending from disassembling the plier parts.
+
+GIF of part
