@@ -67,3 +67,4 @@ The integration of generative design and powder bed fusion is revolutionizing ma
 
 ![Whole Truck Attachment](/assets/img/IMG_8909.jpg)
 
+![Truck Turning](/assets/img/IMG_8922.jpg)
