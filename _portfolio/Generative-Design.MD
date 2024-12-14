@@ -63,3 +63,4 @@ Generative design is most useful in industries where weight and efficiency are c
 
 The integration of generative design and powder bed fusion is revolutionizing manufacturing by enabling lightweight, high-performance components with unprecedented complexity. While generative design has its challenges, its ability to optimize material usage and enhance functionality makes it a valuable tool in advancing engineering solutions. Proper load case application and material selection remain critical to achieving the best outcomes, ensuring the final product meets performance and manufacturability requirements.
 
+![Motor and Wheel Gear Attachment](./assets/img/IMG_8921.jpg)
