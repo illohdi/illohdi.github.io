@@ -68,3 +68,8 @@ The integration of generative design and powder bed fusion is revolutionizing ma
 ![Whole Truck Attachment](/assets/img/IMG_8909.jpg)
 
 ![Truck Turning](/assets/img/IMG_8922.jpg)
+
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4f9d9cf737881c7d5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498012e3deb18060d?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
