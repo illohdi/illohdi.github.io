@@ -21,3 +21,7 @@ The assembly process involves inserting the holder into the square cut on both t
 I chose PLA for the material due to its rigid properties, which are crucial for creating secure connections and precise fits. PLA provides the necessary stability for the phone holder and is also relatively easy to 3D print with, making it a suitable choice for the project.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a42e4b17080c841b9e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+![Phone Holder 1](/assets/img/IMG_8915.jpg)
+
+![Phone Holder 2](/assets/img/IMG_8917.jpg)
